@@ -5,6 +5,7 @@ using UnityEngine;
 public class MoveSprite : MonoBehaviour
 {
     public Vector3 changeLocation;
+
     // Start is called before the first frame update
     void Start()
     {
